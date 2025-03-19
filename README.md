@@ -3,9 +3,9 @@ This is a modification of the DJI Sample Application V5 supplied by DJI. The app
 
 ### Project Team Members:
 
-Callum Nelson a.k.a nelcy006 or arma260
-
 Aoto Iwao a.k.a iwaay002
+
+Callum Nelson a.k.a nelcy006 or arma260
 
 ### Build Instructions for Android Studio
 
